@@ -1,0 +1,1 @@
+This is a sample file documenting Hello-World Git repository
